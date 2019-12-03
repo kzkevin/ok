@@ -1,1 +1,0 @@
-This chapter should be hidden as well as the secrets.txt.
